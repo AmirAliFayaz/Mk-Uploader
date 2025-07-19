@@ -19,7 +19,7 @@ Before using Mk-Uploader, ensure **Go** is installed on your system. You can dow
 ### Step 2: Clone and Compile Mk-Uploader
 1. Clone the repository:
    ```bash
-   git clone https://github.com/itzk4sra/Mk-Uploader.git
+   git clone https://github.com/AmirAliFayaz/Mk-Uploader.git
    cd Mk-Uploader
 ### Compile the Go file:
 ```bash
